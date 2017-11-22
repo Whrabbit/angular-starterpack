@@ -5,5 +5,5 @@
 
 export const environment = {
   production: true,
-  serverUrl: 'https://mongodbpotato.herokuapp.com/api/v1/'
+  serverUrl: 'https://mongodbpotato.herokuapp.com/api/v1'
 };
